@@ -7,7 +7,7 @@ $('form').submit(function (event) {
 
 
     $.ajax({
-        url: "http://itunes.apple.com/search?term=" + search,
+        url: "https://itunes.apple.com/search?term=" + search,
         dataType: 'JSONP'
     })
         .done(function (data) {
