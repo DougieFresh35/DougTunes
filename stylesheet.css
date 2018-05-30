@@ -1,0 +1,39 @@
+.collapsible-header img{
+    margin-right: 15px
+}
+.collapsible-body div{
+    float:left;
+    width: 80%;
+    margin-left: 15px; 
+}
+
+.collapsible-body img{
+    display: block;
+    float: left;
+
+}
+hr{
+    border: 0;
+    clear: both;
+    background: white;
+
+}
+
+.slider .slides{
+    background-image: url(http://www.breadalbane.pkc.sch.uk/BA/wp-content/uploads/2018/01/music-.jpg);
+    background-size: cover;
+}
+
+.amplitude-play-pause{
+    width: 30px !important;
+    height: 30px;
+    background-color: pink;
+    margin: 0 !important;
+    background-size: cover;
+}
+.amplitude-playing{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpes4M6itDvS0JYFeo0IqTRkpRf5y-ojTe3_JB0qJcbQIns72sbw)
+}
+.amplitude-paused{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkemjTgtd6RTUUb98-BhZxtIgu85IJ7hQbUWw0E6iD0DX_9u6d)
+}
